@@ -1,0 +1,5 @@
+- 👋 Hi, I’m jimaniac
+- 👀 I’m interested in everything to do with computers.
+- 🌱 I’m currently learning how to develop websites.
+- 💞️ I’m looking to collaborate on creating games.
+- 📫 Reach me at https://discord.gg/RUr7UnSSPS
